@@ -8,8 +8,8 @@ export const projects = [
     description:
       "Full-stack AI content platform with a Next.js frontend and Node.js/Express REST API. Includes modular blog-post management and Clerk authentication.",
     tech: ["Next.js", "Node.js", "Express.js", "Clerk", "pnpm"],
-    github: "https://github.com/Ubifranklin/aiafrica",
-    live: "#",
+    github: "https://github.com/Ubifranklin/aiafrica_blog",
+    live: "https://franklin-portfolio-pi.vercel.app",
     image: aiafrica
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
       "Restaurant website showcasing menu items and business information through a clean, mobile-first React interface.",
     tech: ["React.js", "HTML", "CSS"],
     github: "https://github.com/Ubifranklin/ominifoods",
-    live: "#",
+    live: "https://ominifoods-pi.vercel.app",
     image: ominifoods
   }
 ];
